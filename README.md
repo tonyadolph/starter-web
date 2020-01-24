@@ -17,3 +17,6 @@ Sample website with plenty of files for demos
 
 changing line) change 6
 
+## NOTE
+
+Nothing special here
