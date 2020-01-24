@@ -24,3 +24,5 @@ Nothing special here
 Another change
 
 Change from remote master
+
+yet another remote master change
