@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tony
 
 # THANKS
 
-    <name>
+    Patty
 
 # TECHNOLOGY COLOPHON
 
