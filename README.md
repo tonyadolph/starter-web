@@ -22,3 +22,5 @@ changing line) change 6
 Nothing special here
 
 Another change
+
+Change from remote master
