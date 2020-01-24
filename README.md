@@ -12,4 +12,10 @@ Sample website with plenty of files for demos
 2) Some changes while on dev branch
 
 
+<<<<<<< HEAD
 3) more changes from master
+=======
+2) Some changes while on dev branch
+
+changing line) change 6
+>>>>>>> dev
